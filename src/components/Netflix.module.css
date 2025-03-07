@@ -1,0 +1,45 @@
+.cont {
+    background-color: #000;
+}
+
+.card-content {
+    color: #fff;
+}
+
+.card {
+    box-shadow: rgb(186, 179, 179) 0px 6px 23px 0px,
+        rgb(200, 187, 187) 0px 0px 0px 1px;
+}
+
+img {
+    width: 100%;
+}
+
+.card-content {
+    padding: 3.2rem 1.3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.card-heading {
+    margin-bottom: 3.2rem;
+    text-align: center;
+    color: #fff;
+}
+
+.super {
+    background-color: green;
+}
+
+.less {
+    background-color: red;
+}
+
+.rating {
+    padding: 0.3rem 1.8rem;
+    color: #fff;
+    margin-left: 1.2rem;
+    border-radius: 100rem;
+
+}
