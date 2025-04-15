@@ -1,8 +1,75 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# NetseriesCard - React
 
-Currently, two official plugins are available:
+NetseriesCard is a simple and visually appealing React-based project that displays a collection of Netflix-style series cards using reusable components. It demonstrates fundamental concepts of React such as props, components, and dynamic rendering of data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+
+Check out the live version of the project here:  
+[Live Demo](https://shalbashaikh16.github.io/NetseriesCard-React/)
+
+## 📸 Screenshot
+
+![NetseriesCard React Screenshot](https://github.com/ShalbaShaikh16/NetseriesCard-React/blob/master/Netflix.png?raw=true)
+
+
+
+## 🚀 Features
+
+- Displays a list of web series using cards
+- Uses reusable React components
+- Clean, minimal UI
+- Responsive layout
+- Built with modern React (functional components, props)
+
+## 🛠️ Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ShalbaShaikh16/NetseriesCard-React.git
+   ```
+
+2. **Navigate to the project directory**
+   ```bash
+   cd NetseriesCard-React
+   ```
+
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+   ```bash
+   npm start
+   ```
+
+The app should now be running at `http://localhost:3000/`.
+
+## 🧰 Technologies Used
+
+- React JS
+- JSX
+- CSS
+
+
+
+## 🙌 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Make your changes
+4. Commit and push (`git commit -m 'Add feature' && git push`)
+5. Open a pull request
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+
