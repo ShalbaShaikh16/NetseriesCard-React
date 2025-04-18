@@ -10,7 +10,7 @@ Check out the live version of the project here:
 
 ## 📸 Screenshot
 
-![NetseriesCard React Screenshot](https://github.com/ShalbaShaikh16/NetseriesCard-React/blob/master/Netflix.png?raw=true)
+![NetseriesCard React Screenshot](https://github.com/ShalbaShaikh16/NetseriesCard-React/blob/master/Net.png?raw=true)
 
 
 
