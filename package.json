@@ -1,5 +1,4 @@
-{"homepage": "https://ShalbaShaikh16.github.io/NetseriesCard-React",
-
+{
   "name": "star",
   "private": true,
   "version": "0.0.0",
@@ -7,16 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
-  "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-
   "dependencies": {
     "react": "^19.0.0-rc.1",
     "react-dom": "^19.0.0-rc.1"
