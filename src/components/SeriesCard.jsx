@@ -20,7 +20,8 @@ const SeriesCard = ({ data }) => {
   return (
     <li className={styles.card} >
       <div>
-        <img src={img_url} alt="rings.jpg" width={"40%"} height={"50%"} />
+        <img src={`/images/${img_url}`} alt={name} width="40%" height="50%" />
+
       </div>
       <div className={styles["card-content"]}>
         <h2>Name:{name}</h2>
