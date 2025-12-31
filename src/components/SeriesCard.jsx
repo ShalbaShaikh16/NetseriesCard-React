@@ -33,4 +33,4 @@ const SeriesCard = ({ data }) => {
     </li>
   );
 }
-check heere
+
