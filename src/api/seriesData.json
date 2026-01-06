@@ -22,7 +22,7 @@
       {
         "id": 3,
         "name":"The King: Eternal Monarch",
-        "img_url": "http://localhost:5173//images/king.webp",
+        "img_url": "/images/king.webp",
         "rating": 7.9,
         "description": "A fantasy romance that worlds as a king seeks to protect his realm and the woman he loves.",
         "cast": ["Lee Min-ho", "Kim Go-eun", "Woo Do-hwan"],
@@ -32,7 +32,7 @@
       {
         "id": 4,
         "name":"Mr. Plankton",
-        "img_url": "http://localhost:5173//images/Plankton.jpg",
+        "img_url": "/images/Plankton.jpg",
         "rating": 6.5,
         "description": "A quirky comedy-drama about an aimless young man who discovers unexpected connections while drifting through life.",
         "cast": ["Choi Woo-shik", "Kim Da-mi", "Lee Sung-kyung"],
@@ -42,7 +42,7 @@
       {
         "id": 5,
         "name":"Queen of Tears",
-        "img_url": "http://localhost:5173//images/Queen.jpg",
+        "img_url": "/images/Queen.jpg",
         "rating": 9.0,
         "description": "A captivating drama about a powerful woman navigating betrayal love in a cutthroat corporate parallel world & secret politics.",
         "cast": ["Kim Tae-ri", "Park Bo-gum", "Song Hye-kyo"],
@@ -52,7 +52,7 @@
       {
         "id": 6,
         "name":"Bussiness Proposal",
-        "img_url": "http://localhost:5173//images/bussiness.jpeg",
+        "img_url": "/images/bussiness.jpeg",
         "rating": 9.5,
         "description": "A most romantic and comedy drama, woman navigating in a cutthroat corporate world.",
         "cast": ["Kim Sejeoung", " Ahn Hyo-seop", "Kim Min-kiyu"],
