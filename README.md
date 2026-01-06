@@ -6,7 +6,7 @@ NetseriesCard is a simple and visually appealing React-based project that displa
 ## 🔗 Live Demo
 
 Check out the live version of the project here:  
-[Live Demo](https://shalbashaikh16.github.io/NetseriesCard-React/)
+[Live Demo](https://netseries-card-react-2wek.vercel.app/)
 
 ## 📸 Screenshot
 
