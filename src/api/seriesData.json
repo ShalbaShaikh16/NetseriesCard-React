@@ -2,7 +2,7 @@
       {
         "id": 1,
         "name":"Lovely Runner",
-        "img_url": "http://localhost:5173//images/images.jpeg",
+        "img_url": "/images/LR.jpg",
         "rating": 8.7,
         "description": "A heartwarming story about a marathon runner and a sports journalist finding love amidst life's challenges and hurdles.",
         "cast": ["Park Seo-joon", "Kim Ji-won", "Lee Dong-wook"],
@@ -12,7 +12,7 @@
       {
         "id": 2,
         "name":"When the Phone Rings",
-        "img_url": "http://localhost:5173//images/rings.jpg",
+        "img_url": "/images/rings.jpg",
         "rating": 9.2,
         "description": "A suspenseful thriller where a phone call connects a mysterious woman with a dangerous past.",
         "cast": ["Ji Chang-wook", "Kim So-hyun", "Yoo Ah-in"],
